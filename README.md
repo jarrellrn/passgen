@@ -9,17 +9,13 @@ This program is used for generating random passwords, with functionality to save
 ## Table of contents
 
 1. [Installation](#installation)
-2. [Usage](#usage)
-3. [License](#license)
-4. [Contributing members](#contributing)
-5. [Tests](#tests)
-6. [Questions](#questions)
+2. [License](#license)
+3. [Contributing members](#contributing)
+4. [Questions](#questions)
 
 ### Installation: <a name="installation"></a>
 
 Download the repo and then run "node index.js" in the main directory.
-
-### Usage: <a name="usage"></a>
 
 ### License: <a name="license"></a>
 
@@ -28,10 +24,6 @@ This application is covered under the "ISC" license.
 ### Contributing members: <a name="contributing"></a>
 
 Robert Jarrell
-
-### Tests: <a name="tests"></a>
-
-N/A
 
 ### Questions: <a name="questions"></a>
 
